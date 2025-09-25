@@ -36,3 +36,8 @@ WER reported on test set: **0.8731** (≈87.31% errors).
 - Try larger models (`whisper-small`, `whisper-medium`)  
 
 ---
+
+## Demo and Results
+
+![Alt Text](https://github.com/Sarfrazali-123/Speech-To-Text-Sindhi/blob/ba0e621bd804eb8bcf450380cd7cf2a521d17a2e/Tiny.png)
+
